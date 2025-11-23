@@ -17,8 +17,7 @@ The Spell Checker Application is a Python-based tool designed to automatically d
 - Detailed Feedback:  Shows both the original misspelled word and its correction
 
 - Cross-Platform Compatibility:   Works on any system with Python installed
-## Overview
-The Spell Checker Application is a Python-based tool designed to automatically detect and correct spelling errors in plain text. Using the pyspellchecker library, it provides quick and reliable spelling corrections through an intuitive command-line interface. Perfect for writers, students, and anyone who needs to quickly proofread text without leaving the terminal.
+
 
 ## Technologies & Tools Used
 - `Python 3.x `- Core programming language
