@@ -82,7 +82,7 @@ python app.py
 7. Access the Application
 Open your web browser and navigate to:
 ```bash
-http://127.0.0.1:5000
+http://localhost.0.0.1:5000
 ```
 
 
@@ -91,7 +91,7 @@ http://127.0.0.1:5000
 ## Instructions for Testing
 **Testing the Web Interface**
 1. Access the Main Page
- - Open http://127.0.0.1:5000 in your browser
+ - Open http://localhost.0.0.1:5000 in your browser
  - You should see a text area and a "Check" button
 2. Test Spell Checking
  - Enter text with intentional spelling errors:
